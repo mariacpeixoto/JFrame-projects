@@ -24,7 +24,7 @@ JFrame projects made for treining.
 
 <p align="center"><img src="./src/assets/img/bhaskara.png" height="50%" width="50%"></p>
 
-• Programa com interface gráfica que calcule o [teorema de Pitágoras](https://github.com/mariacpeixoto/JFrame-projects/blob/master/src/Projects/TeoremaPitagoras.java).
+• Programa com interface gráfica que calcule o [teorema de Pitágoras](https://github.com/mariacpeixoto/JFrame-projects/blob/master/src/Projects/TeoremaPitagoras.java) e retorne o valor da hipotenusa.
 
 <p align="center"><img src="./src/assets/img/TeoremaPitagoras.png" height="50%" width="50%"></p>
 
@@ -35,6 +35,7 @@ JFrame projects made for treining.
 • Programa com interface gráfica que faça a [conversão de temperatura](https://github.com/mariacpeixoto/JFrame-projects/blob/master/src/Projects/ConversorTemp.java) em graus celsius para fahrenheit e kelvin.
 
 <p align="center"><img src="./src/assets/img/conversorTemp.png" height="50%" width="50%"></p>
+
 
 <h3>👨‍💻 Used Technology</h3>
 
