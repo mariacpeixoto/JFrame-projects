@@ -1,38 +1,38 @@
 # JFrame Projects
 JFrame projects made for treining. 
 
-• Programa com interface gráfica que exiba uma tela de [cadastro de cliente](https://github.com/mariacpeixoto/JFrame-projects/blob/master/src/Projects/CadastroDeCliente.java).
+• [Customer registration](https://github.com/mariacpeixoto/JFrame-projects/blob/master/src/Projects/CadastroDeCliente.java): Graphical interface program that displays a customer registration screen.
 
 <p align="center"><img src="./src/assets/img/cadastrodecliente.png" height="50%" width="50%" title="Cadastro de cliente"></p>
 
 
-• Programa com interface gráfica que faça as 4 [operações matemáticas básicas](https://github.com/mariacpeixoto/JFrame-projects/blob/master/src/Projects/CalculadoraJ.java) e retorne o resultado.
+• [Basic math operations](https://github.com/mariacpeixoto/JFrame-projects/blob/master/src/Projects/CalculadoraJ.java): Graphical interface program that solves the 4 basic math operations and returns the result.
 
 <p align="center"><img src="./src/assets/img/calculadora.png" height="50%" width="50%" title="Calculadora"></p>
 
 
-• Programa com interface gráfica que [calcule o IMC](https://github.com/mariacpeixoto/JFrame-projects/blob/master/src/Projects/CalcularIMC.java) e retorne o resultado.
+• [BMI calculation](https://github.com/mariacpeixoto/JFrame-projects/blob/master/src/Projects/CalcularIMC.java): Graphical interface program that calculates the BMI and returns the result.
 
 <p align="center"><img src="./src/assets/img/calcularIMC.png" height="50%" width="50%" title="Calculo de IMC"></p>
 
 
-• Programa com interface gráfica que calcule 4 notas fornecidas pelo usuário e exiba a [média](https://github.com/mariacpeixoto/JFrame-projects/blob/master/src/Projects/CalcularMediaJ.java) das notas.
+• [Average calculation](https://github.com/mariacpeixoto/JFrame-projects/blob/master/src/Projects/CalcularMediaJ.java): Graphical interface program that calculates 4 grades provided by the user and displays the average grades.
 
 <p align="center"><img src="./src/assets/img/calcularMedia.png" height="50%" width="50%"></p>
 
-• Programa com interface gráfica que calcule a [fórmula de Bhaskara](https://github.com/mariacpeixoto/JFrame-projects/blob/master/src/Projects/Bhaskara.java).
+• [Bhaskara formula](https://github.com/mariacpeixoto/JFrame-projects/blob/master/src/Projects/Bhaskara.java): Graphical interface program that calculates Bhaskara's formula.
 
 <p align="center"><img src="./src/assets/img/bhaskara.png" height="50%" width="50%"></p>
 
-• Programa com interface gráfica que calcule o [teorema de Pitágoras](https://github.com/mariacpeixoto/JFrame-projects/blob/master/src/Projects/TeoremaPitagoras.java) e retorne o valor da hipotenusa.
+• [Pythagorean theorem](https://github.com/mariacpeixoto/JFrame-projects/blob/master/src/Projects/TeoremaPitagoras.java): Graphical interface program that calculates the Pythagorean theorem and returns the value of the hypotenuse.
 
 <p align="center"><img src="./src/assets/img/TeoremaPitagoras.png" height="50%" width="50%"></p>
 
-• Programa com interface gráfica que receba as medidas dos lados de um triângulo, indique seu [tipo](https://github.com/mariacpeixoto/JFrame-projects/blob/master/src/Projects/TipoTriangulo.java) e retorne o resultado.
+• [Triangle Type](https://github.com/mariacpeixoto/JFrame-projects/blob/master/src/Projects/TipoTriangulo.java): Graphical interface program that receives the measurements of the sides of a triangle, indicates its type and returns the result.
 
 <p align="center"><img src="./src/assets/img/tipoTriangulo.png" height="50%" width="50%"></p>
 
-• Programa com interface gráfica que faça a [conversão de temperatura](https://github.com/mariacpeixoto/JFrame-projects/blob/master/src/Projects/ConversorTemp.java) em graus celsius para fahrenheit e kelvin.
+• [Temperature Converter](https://github.com/mariacpeixoto/JFrame-projects/blob/master/src/Projects/ConversorTemp.java): Graphical interface program that converts temperature in degrees celsius to fahrenheit and kelvin.
 
 <p align="center"><img src="./src/assets/img/conversorTemp.png" height="50%" width="50%"></p>
 
