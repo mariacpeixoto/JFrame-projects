@@ -1,11 +1,11 @@
 # JFrame Projects
 JFrame projects made for treining. 
 
-• Programa com interface gráfica que exiba uma tela de [cadastro de cliente](https://github.com/mariacpeixoto/JFrame-projects/src/Projects/CadastroDeCliente.java).
+• Programa com interface gráfica que exiba uma tela de [cadastro de cliente](https://github.com/mariacpeixoto/JFrame-projects/blob/master/src/Projects/CadastroDeCliente.java).
 
 <p align="center"><img src="./src/assets/img/cadastrodecliente.png" height="50%" width="50%" title="Cadastro de cliente"></p>
 
-• Programa com interface gráfica que faça as 4 [operações matemáticas básicas](https://github.com/mariacpeixoto/JFrame-projects/src/Projects/CalculadoraJ.java) e retorne o resultado.
+• Programa com interface gráfica que faça as 4 [operações matemáticas básicas](https://github.com/mariacpeixoto/JFrame-projects/blob/master/src/Projects/CalculadoraJ.java) e retorne o resultado.
 
 <p align="center"><img src="./src/assets/img/calculadora.png" height="50%" width="50%" title="Calculadora"></p>
 
