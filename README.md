@@ -1,9 +1,9 @@
 # JFrame Projects
 JFrame projects made for treining. 
 
-• Programa com interface gráfica que exiba uma tela de [cadastro de cliente](src="./src/Projects/CadastroDeCliente.java").
+• Programa com interface gráfica que exiba uma tela de [cadastro de cliente](https="./src/Projects/CadastroDeCliente.java").
 
-<p align="center"><img src="./src/assets/img/cadastrodecliente.png" title="Basic Calculator"></p>
+<p align="center"><img src="./src/assets/img/cadastrodecliente.png" height="35px" width="35px" title="Cadastro de cliente"></p>
 
 
 <h3>👨‍💻 Used Technology</h3>
