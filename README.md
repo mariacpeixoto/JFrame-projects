@@ -1,17 +1,14 @@
 # JFrame Projects
 JFrame projects made for treining. 
 
-• Programa com interface gráfica que exiba uma tela de [cadastro de cliente](https://github.com/mariacpeixoto/JFrame-projects/src/Projects/CadastroDeCliente.java").
+• Programa com interface gráfica que exiba uma tela de [cadastro de cliente](https://github.com/mariacpeixoto/JFrame-projects/blob/master/src/Projects/CadastroDeCliente.java).
 
-<p align="center"><img src="./src/assets/img/cadastrodecliente.png" height="50%" width="50%" title="Cadastro de cliente"></p>
+<p align="center"><img src="./src/assets/img/cadastrodecliente.png" height="25%" width="25%" title="Cadastro de cliente"></p>
 
 
 <h3>👨‍💻 Used Technology</h3>
 
-- [HTML](https://www.w3schools.com/html/)
-- [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
-- [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-
+- [Java](https://www.zup.com.br/blog/java#:~:text=O%20Java%20%C3%A9%20uma%20linguagem,como%20o%20pai%20do%20Java.)
 
 <!--License session-->
 <h3>📝 License</h3>
