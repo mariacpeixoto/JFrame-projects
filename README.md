@@ -28,7 +28,7 @@ JFrame projects made for treining.
 
 <p align="center"><img src="./src/assets/img/TeoremaPitagoras.png" height="50%" width="50%"></p>
 
-• Programa com interface gráfica que receba as medidas dos lados de um triângulo e indique seu [tipo](https://github.com/mariacpeixoto/JFrame-projects/blob/master/src/Projects/TipoTriangulo.java) e retorne o resultado.
+• Programa com interface gráfica que receba as medidas dos lados de um triângulo, indique seu [tipo](https://github.com/mariacpeixoto/JFrame-projects/blob/master/src/Projects/TipoTriangulo.java) e retorne o resultado.
 
 <p align="center"><img src="./src/assets/img/tipoTriangulo.png" height="50%" width="50%"></p>
 
