@@ -22,7 +22,7 @@ JFrame projects made for treining.
 
 • Programa com interface gráfica que calcule a [fórmula de Bhaskara](https://github.com/mariacpeixoto/JFrame-projects/blob/master/src/Projects/Bhaskara.java).
 
-<p align="center"><img src="./src/assets/img/Bhaskara.png" height="50%" width="50%"></p>
+<p align="center"><img src="./src/assets/img/bhaskara.png" height="50%" width="50%"></p>
 
 • Programa com interface gráfica que calcule o [teorema de Pitágoras](https://github.com/mariacpeixoto/JFrame-projects/blob/master/src/Projects/TeoremaPitagoras.java).
 
